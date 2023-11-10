@@ -22,7 +22,7 @@
                 <p class="fecha">1 de Enero de 2016</p>
                 <div class="thumb">
                     <a href="#">
-                        <img src="<?php echo RUTA; ?>/imgs/linuxmatrix.jpg" alt="post image">
+                        <img src="<?php echo RUTA; ?>/imgs/linuxmatrix.jpg" alt="post image" width=100%>
                     </a>
                 </div>
                 <p class="extracto">
